@@ -23,3 +23,9 @@
 
 #### 08_subset_multi_rows_cols.py
 获取复数的行和列数据。
+
+#### 09_grouped_aggregated.py
+分组和聚合计算.
+
+#### 10_grouped_counts.py
+获取Pandas系列的唯一值计数和频率计数.
