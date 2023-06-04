@@ -8,3 +8,18 @@
 
 #### 03_dot_notation_column.py
 使用.来查看行数据，获取行和列数据。
+
+#### 04_subset_rows_by_number.py
+按行号设置子行。
+
+#### 05_select_columns.py
+选择多列。loc与iloc使用。
+
+#### 06_subset_range.py
+利用range函数来获取df的column子集。
+
+#### 07_subset_slice.py
+使用切片来获取df子集。
+
+#### 08_subset_multi_rows_cols.py
+获取复数的行和列数据。
