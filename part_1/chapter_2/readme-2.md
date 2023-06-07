@@ -15,3 +15,21 @@
 
 #### 06_ops_automatic_align_vect.py
 操作自动对齐和矢量化（广播）。
+
+#### 07_vectors_index_labels.py
+带有公共索引标签的矢量。
+
+#### 08_part_dataframe.py
+DataFrame的索引，列，值操作。
+
+#### 09_boolean_subset_df.py
+通过 bool 来选取 df 的子集。
+
+#### 10_df_vect_broadcast.py
+df 的向量计算（传播）。
+
+#### 11_add_additional_columns.py
+添加另外的 columns (新增转换的日期格式的列).
+
+#### 12_direct_chg_column.py
+直接修改 column (年龄计算)。
