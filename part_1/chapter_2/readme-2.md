@@ -33,3 +33,19 @@ df 的向量计算（传播）。
 
 #### 12_direct_chg_column.py
 直接修改 column (年龄计算)。
+
+#### 13_modify_columns_assign.py
+使用 assign 方法来修改列 columns。
+
+#### 14_drop_values.py
+删除列。
+
+#### 16_ops_excel.py
+导出与导入excel。
+
+#### 17_ops_feather.py
+导出与导入到 feather 文件中。
+
+```bash
+pip install pyarrow
+```
