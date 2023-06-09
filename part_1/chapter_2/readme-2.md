@@ -49,3 +49,9 @@ df 的向量计算（传播）。
 ```bash
 pip install pyarrow
 ```
+
+#### 18_to_dict.py
+series 和 df 转换成 dict。
+
+#### 19_to_json.py
+dict 转换成 json 形式。
