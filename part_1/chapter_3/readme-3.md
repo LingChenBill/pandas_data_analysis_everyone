@@ -57,3 +57,39 @@ sns - 绘制joint图。
 
 #### 16_sns_hexbin_plot.py
 sns - 绘制 Hexbin 图。
+
+#### 17_sns_2d_density_plot.py
+sns - 绘制 2d Density 密度图。
+
+#### 18_sns_jointplot_kde.py
+sns - 绘制 joint 图。
+
+#### 19_sns_bar_plot.py
+sns - 绘制 Bar 图。
+
+#### 20_sns_box_plot.py
+sns - box 图。
+
+#### 21_sns_violin_plot.py
+sns - 绘制 violin 图形(小提琴图)。
+
+#### 22_sns_box_violin_plot.py
+sns - 绘制 box 和 violin 图形。
+
+#### 23_sns_pairwise_plot.py
+sns - 绘制 pairwise 成对的图形。
+
+#### 24_sns_pairgrid_plot.py
+sns - 绘制 pair grid 图形。
+
+#### 25_sns_violin_plot_palette.py
+sns - 绘制 violin 小提琴图形(配置颜色)。
+
+#### 26_sns_lmplot_color.py
+sns - 绘制 implot 颜色图形。
+
+#### 27_sns_pair_plot_palette.py
+sns - 绘制 pair 颜色图形。
+
+#### 28_sns_pair_plot_size_shape.py
+sns - 绘制 散点图（大小和形状）。
