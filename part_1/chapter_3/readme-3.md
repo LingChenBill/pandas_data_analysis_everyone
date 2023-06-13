@@ -93,3 +93,27 @@ sns - 绘制 pair 颜色图形。
 
 #### 28_sns_pair_plot_size_shape.py
 sns - 绘制 散点图（大小和形状）。
+
+#### 29_sns_relplot_one_facet.py
+sns - 绘制 One Facet Variable 图形。
+
+#### 30_sns_relplot_two_facet_variables.py
+sns - 绘制 两个字变量的 图形。
+
+#### 31_sns_facetgrid.py
+sns - 创建 面网格 facet grid。
+
+#### 32_sns_facetgrid_scatter.py
+sns - 创建 facet grid 的散点图形。
+
+#### 33_sns_facetgrid_row.py
+sns - 创建 facet grid 带有row标签的图形。
+
+#### 34_sns_catplot.py
+sns - 创建 catplot 图形。
+
+#### 35_sns_set_style.py
+sns - 绘制图形的样式。
+
+#### 36_sns_styles.py
+sns - 绘制 多个 样式的图形。
