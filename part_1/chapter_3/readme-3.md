@@ -117,3 +117,25 @@ sns - 绘制图形的样式。
 
 #### 36_sns_styles.py
 sns - 绘制 多个 样式的图形。
+
+#### 37_plot_contexts.py
+sns - plot 上下文。
+
+#### 38_pandas_hist.py
+pandas - 创建直方图。
+
+#### 39_pandas_density_plot.py
+pandas - 创建kde图。
+安装依赖:
+```bash
+pip install scipy
+```
+
+#### 40_pandas_scatter_plot.py
+pandas - 创建散点图。
+
+#### 41_pandas_hexbin_plot.py
+pandas - 创建 hexbin 图形。
+
+#### 42_pandas_box_plot.py
+pandas - 创建 box 图形。
