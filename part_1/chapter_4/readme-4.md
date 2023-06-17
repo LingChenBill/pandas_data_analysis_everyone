@@ -22,3 +22,15 @@ https://r4ds.had.co.nz/tidy-data.html
 
 #### 01_keep_one_column_fixed.py
 pandas - 固定一列。
+
+#### 02_keep_multi_columns_fixed.py
+pandas - 保持多列固定。
+
+#### 03_columns_contain_multi_variables.py
+pandas - 列包含多个变量。
+
+#### 04_split_combine_single_step.py 
+pandas - 一步分拆和合并。
+
+#### 05_variables_both_rows_columns.py
+pandas - 变量在列和行中。
