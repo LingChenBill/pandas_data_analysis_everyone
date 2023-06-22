@@ -31,3 +31,9 @@ pandas - 使用 loop 来加载多个文件。
 
 #### 08_load_multi_files_list_comprehension.py
 pandas - 利用列表推导式来加载多个文件的数据。
+
+#### 09_merge_multi_data_sets.py
+pandas - 合并不同的数据集。
+
+#### 10_check_with_assert.py
+pandas - 使用 assert 来验证。
