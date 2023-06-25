@@ -22,3 +22,16 @@ pandas - 内置的聚合方法。
 
 #### 03_custom_user_function.py
 pandas - 定制自己的函数。
+
+#### 04_multi_functions_simultaneously.py
+pandas - 同时多个函数。
+
+#### 05_z_score.py
+pandas - z-score 计算。
+
+#### 06_missing_value.py
+pandas - missing 值处理。
+
+#### 07_filter.py
+pandas - filter 过滤器。
+
