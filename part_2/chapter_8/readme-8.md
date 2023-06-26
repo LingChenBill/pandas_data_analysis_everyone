@@ -35,3 +35,11 @@ pandas - missing 值处理。
 #### 07_filter.py
 pandas - filter 过滤器。
 
+#### 08_groups.py
+pandas - Groups。
+
+#### 09_multi_groups.py
+pandas - 复数的组别 Groups。
+
+#### 10_work_with_multi_index.py
+pandas - 使用复数的索引来进行 Groupby 工作。
