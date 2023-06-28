@@ -23,3 +23,12 @@ pandas - 重新索引（包含缺失值）。
 
 #### 06_working_with_missing_data.py
 pandas - 统计缺失值。
+
+#### 07_recode_replace_missing_values.py
+pandas - 通过 Recode 和 Replace 来处理缺失值。
+
+#### 08_drop_missing_values.py
+pandas - 去掉缺失值。
+
+#### 09_build_in_na_missing.py
+pandas - 内置的缺失值处理。
