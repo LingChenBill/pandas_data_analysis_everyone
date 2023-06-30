@@ -12,3 +12,6 @@ pandas - 数据类型。
 
 #### 02_convert_types.py
 pandas - 类型转换。
+
+#### 03_categorical_data.py
+pandas - 分类类型的数据。
