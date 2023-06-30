@@ -16,3 +16,19 @@ pandas - 获取字符串子串。
 
 #### 03_string_methods.py
 pandas - 字符串方法。
+
+#### 04_re_match_pattern.py
+pandas - 正则匹配模式。
+
+#### 05_find_pattern.py
+pandas - 查找一个匹配。
+
+#### 06_compile_pattern.py
+pandas - 汇编模式。
+
+#### 07_regex_library.py
+pandas - regex library。
+
+```bash
+pip install regex
+```
