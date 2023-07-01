@@ -16,3 +16,23 @@ pandas - datetime。
 
 #### 02_convert_datetime.py
 pandas - 转换成日期。
+
+#### 03_load_data_include_dates.py
+pandas - 加载包含有日期的数据。
+
+#### 04_extract_date_components.py
+pandas - 提交日期数据部分。
+
+#### 05_date_calculations_timedeltas.py
+pandas - 日期计算和日期增量。
+
+#### 06_datetime_methods.py
+pandas - 日期方法。
+
+#### 07_get_stock_data.py
+pandas - 获取库存数据。
+
+安装依赖:
+```bash
+pip install pandas_datareader
+```
