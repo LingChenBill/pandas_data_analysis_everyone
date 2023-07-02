@@ -36,3 +36,12 @@ pandas - 获取库存数据。
 ```bash
 pip install pandas_datareader
 ```
+
+#### 08_date_ranges.py
+pandas - 日期范围处理。
+
+#### 08_date_ranges.py
+pandas - 日期范围处理。
+
+#### 09_date_shifting_values.py
+pandas - 日期平移值处理。
