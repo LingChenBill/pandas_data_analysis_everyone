@@ -45,3 +45,9 @@ pandas - 日期范围处理。
 
 #### 09_date_shifting_values.py
 pandas - 日期平移值处理。
+
+#### 10_resampling.py
+pandas - 再生。
+
+#### 11_pytz_time_zones.py
+pandas - 时区。
